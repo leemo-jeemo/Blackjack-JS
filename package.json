@@ -1,0 +1,10 @@
+{
+  "name": "blackjack-js",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Terminal-based blackjack game",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
