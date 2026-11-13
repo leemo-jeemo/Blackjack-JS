@@ -1,4 +1,4 @@
-import { createDeck, shuffleDeck, drawCard } from "../modules/deck.js";
+import { createDeck, shuffleDeck, drawCard } from "../src/modules/deck.js";
 
 const deck = createDeck();
 const ogDeck = [...deck];
